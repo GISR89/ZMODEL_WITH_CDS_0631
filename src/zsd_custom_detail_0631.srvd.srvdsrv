@@ -1,0 +1,4 @@
+@EndUserText.label: 'Tipos de Entidades y Servicios'
+define service ZSD_CUSTOM_DETAIL_0631 {
+  expose ZCDS_CUSTOM_DETAIL_0631 as Customer;
+}
